@@ -27,6 +27,9 @@
 - Object interactions
 - Method-level design
 - API request/response format
+  
+### LLD Focus :
+  <img src="./LLD_focus.png" alt="LLDFocus" width="400"/>
 
 > Think of LLD as how you translate HLD into actual **code structure**.
 
