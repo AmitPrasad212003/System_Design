@@ -1,5 +1,3 @@
-# System_Design
-
 # 🧠 Understanding System Design, LLD, and DSA
 
 ## 📌 What is System Design?
@@ -63,8 +61,9 @@
 
 
 > **DSA is the brain of an Application, LLD is the skeleton.**
+---
 
+<img src="./Screenshot%202025-05-16%20185312.png" alt="System Design Diagram" width="500"/>
 
-![System Design Diagram](22b85b53-27b5-4a50-91b4-906e0673dd94.png)
 
 ---
